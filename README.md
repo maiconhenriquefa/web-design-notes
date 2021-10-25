@@ -83,7 +83,52 @@ Notas do curso Web Design Completo na <a href="https://www.origamid.com/">Origam
     - Encorpadas
     - Peso maior
     - Títulos
-  - Script
+  - Script (Salamander, Lucida Calligraphy)
+    - Mais suave
+    - Estilo pincel
+  - Góticas / Blackletter (New Rocker, Cabazon)
+    - Refencia período medieval
+    - Indicada para título
+  - Display (Phosphate, Curlz MT e Hobo)
+    - Sem padrão definido
+    - Boas para títulos
+  
+  Recomendações:
+  - https://fonts.adobe.com/fonts
+  - https://www.fontsquirrel.com/
+  - https://fonts.google.com/
+  - https://www.typewolf.com/
+  
+  _Variáveis Tipográficos_ (indicação de corpo de texto, em helvética e arial)
+   - Tamanho do tipo (ex. 14px, 16px ou 18px)
+   - Altura da linha (ex. 1,5x tamanho do texto. Ou seja 1,5 x 14px = 21px)
+   - Largura do texto (no máximo 10/14 palavras por linha)
+  
+  Escalas Tipográficas
+   - Utilize no máximo 6 tamanhos (pode criar um ruido visual)
+   - Escala harmônica (11px, 14px, 18px, 24px, 36px e 48 px)
+   - Contraste (Utilizar tamanhos diferentes para diferenciar as informações)
+  
+  _Pareando Tipos_
+   - Escolher boas combinações (ex. serifadas para o título e sem serifa para o corpo)
+   - Indicação de no máximo 2 tipos (no início)
+   - Contraste (Utilizar tipos diferentes para diferenciar as informações)
+  
+  _Alinhamento_
+   - Esquerda (padrão 80% das vezes)
+   - Centralizado (Bom para títulos, subtítulos, blocos pequenos de texto)
+   - Justificado (Pouco utilizado, gera caminho de rato)
+  
+  _Elementos_
+   - Itálico (palavras importantes)
+   - Negrito (citações, títulos de livros/filmes e outros)
+   - Sublinhado (links)
+   - Caixa ALTA (mais para títulos/subtítulos)
+  *(Não utilizar mais de um elemento)
+  
+  _Tracking e Kerning_
+   - Tracking: distância entre todas as letras
+   - Kerning: distância entre duas letras
   
 </details>
 
