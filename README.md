@@ -154,7 +154,7 @@ Notas do curso Web Design Completo na <a href="https://www.origamid.com/">Origam
   **UX Design**
   >  Qualquer interação entre o usuário e a marca é uma experiência de uso. o trabalho do design é garantir que a necessidade do usuário seja atendida - Origamid
   
-  Devemos tentar 
+  Devemos pensar em: 
   - Facilidade de Uso
   - Sentidos
   - Experiências
@@ -188,6 +188,25 @@ Notas do curso Web Design Completo na <a href="https://www.origamid.com/">Origam
     - Deixe óbvio que os botões são clicáveis
     - Elimine distrações
     - Formate o conteúdo para ser escaneado
+  
+  **UI Design**
+  >  User Interface design é o processo de criação de interfaces, que tem como o objetivo criar interfaces eficientes e efetivas - Origamid
+  
+  - Primeiro temos a fórmula (planejamento)
+  
+  - Elemnetos comuns em uma interface
+    - Botões de ação
+    - Blocos de texto/ títulos
+    - Formulários
+    - Imagens / Pictogramas
+    - Separadores
+  
+  *Lembre-se da dica de repetição, é fundamental em Ui Design.
+  
+  Principais estilos de UI na WEB
+  - Skeumorfismo (Objetos reais no meio digital)
+  - Flat Design (Cores chapadas, sem sombras e texturas)
+  - Material Design (Mantém o flat mas se aproveita de um ambiente 3d digital)
   
 </details>
 
