@@ -130,6 +130,27 @@ Notas do curso Web Design Completo na <a href="https://www.origamid.com/">Origam
    - Tracking: distância entre todas as letras
    - Kerning: distância entre duas letras
   
+- **GRID**
+  
+  > Consiste em um conjunto de relações baseadas em alinhamento que servem como guias para distribuir os elemnetos ao longo de um formato - Timothy Samara
+ 
+  - Tamanho da coluna (existir uma lógica e consistência)
+  - Espaçamento entre colunas (padronizado)
+  - Encaixe dos elementos no grid (quebre apenas quando nescessário)
+  
+- **Dicas (Livro Design pra que não é designer)**
+
+  - Contraste
+  - Repetição
+  - Alinhamento
+  - Proximidade
+  
+</details>
+
+<details>
+<summary>UX Design e UI Design</summary>
+<br>
+
 </details>
 
 ## :triangular_flag_on_post:  Design do Projeto
