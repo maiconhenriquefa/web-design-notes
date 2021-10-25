@@ -257,6 +257,13 @@ Notas do curso Web Design Completo na <a href="https://www.origamid.com/">Origam
         > técnica no design da experiência do usuário, na qual uma pessoa testa um grupo de especialistas ou usuários para gerar um dendograma ou folksonomia. É uma abordagem útil para projetar arquitetura de informações, fluxos de trabalho, estrutura de menus ou caminhos de navegação de sites -Wikipédia
   
 </details>
+<details>
+      <summary>Wireframe</summary>
+
+      - **Wireframe**
+        > É um desenho básico da interface que tem como objetivo retratar a arquitetura da informação ea  usabilidade. - Origamid  
+  
+</details>
 
 ## :triangular_flag_on_post:  Básico de Codificação
 ## :triangular_flag_on_post:  Código do Projeto
