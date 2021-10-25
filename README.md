@@ -150,7 +150,23 @@ Notas do curso Web Design Completo na <a href="https://www.origamid.com/">Origam
 <details>
 <summary>UX Design e UI Design</summary>
 <br>
+  
+  **UX Design**
+  >  Qualquer interação entre o usuário e a marca é uma experiência de uso. o trabalho do design é garantir que a necessidade do usuário seja atendida - Origamid
+  
+  Devemos tentar 
+  - Facilidade de Uso
+  - Sentidos
+  - Experiências
+  - Encantamento
+  
+  Na web:
+  - Usabilidade (bom uso)
+  - Prazer (surpreender)
 
+  Recomendação:
+  - https://www.nngroup.com/
+  
 </details>
 
 ## :triangular_flag_on_post:  Design do Projeto
