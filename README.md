@@ -211,6 +211,53 @@ Notas do curso Web Design Completo na <a href="https://www.origamid.com/">Origam
 </details>
 
 ## :triangular_flag_on_post:  Design do Projeto
+
+<details>
+<summary>Planejamento</summary>
+
+  - Defina o seu serviço (produto)
+  - Defina o seu preço (preço)
+  - Defina seu ponto de venda (praça)
+  - Defina como você vai se promover (promoção)
+  
+  Etapas para construção de um site
+  
+  <details>
+  <summary>Diagrama de Jesse James Garret</summary>
+
+   ![image](https://user-images.githubusercontent.com/53382761/138722643-6a69dfef-beed-44e3-bd0e-28c80f6d5830.png)
+
+  </details>
+  <details>
+  <summary>Diagrama da Origamid</summary>
+
+  ![image](https://user-images.githubusercontent.com/53382761/138723072-e0dee879-7440-46d2-95ce-94097cf7dba9.png)
+
+  </details>
+
+  - **Arquitetura da informação**
+  
+    > Processo de organizar e categorizar a informaçãode modo que o usuário encontre da forma mais fácil possível - Origamid
+  
+    - Aproveite as convenções (endereço, formulário, telefone e e-mail)
+    - Crie níveis de detalhamento (home com introduções)
+    - Crie mais de um caminho
+    - Concatene informações
+    - Conheça o usuário
+  
+  
+      <details>
+      <summary>mapa do site</summary>
+
+      ![image](https://user-images.githubusercontent.com/53382761/138728217-96c17a46-2682-4a60-8efa-330c81a53889.png)
+
+      </details>
+  
+    - Card Sorting
+        > técnica no design da experiência do usuário, na qual uma pessoa testa um grupo de especialistas ou usuários para gerar um dendograma ou folksonomia. É uma abordagem útil para projetar arquitetura de informações, fluxos de trabalho, estrutura de menus ou caminhos de navegação de sites -Wikipédia
+  
+</details>
+
 ## :triangular_flag_on_post:  Básico de Codificação
 ## :triangular_flag_on_post:  Código do Projeto
 ## :triangular_flag_on_post:  Considerações Finais
