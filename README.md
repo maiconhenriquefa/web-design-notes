@@ -167,6 +167,28 @@ Notas do curso Web Design Completo na <a href="https://www.origamid.com/">Origam
   Recomendação:
   - https://www.nngroup.com/
   
+  **Usabilidade**
+  
+  - Útil (Alguém precisa?)
+  - Fácil de aprender (Demora a aṕrender como usa?)
+  - Memorável (Nescessário reaprender?)
+  - Efetivo (Faz o seu trabalho?)
+  - Eficiente (Quantidade de esforço para utilizar)
+  - Desejável (As pessoas querem isso?)
+  - Prazeroso (Ao utilizar proporciona prazer?)
+  
+  Dicas:
+  - Não me faça pensar
+  - Sem poluição visual
+  - Sinalize
+  - Usuários Escaneiam as páginas
+    - Tire vantagens das convenções (padrões)
+    - Crie hierarquias visuais efetivas
+    - Quebre as páginas em áreas definidas
+    - Deixe óbvio que os botões são clicáveis
+    - Elimine distrações
+    - Formate o conteúdo para ser escaneado
+  
 </details>
 
 ## :triangular_flag_on_post:  Design do Projeto
